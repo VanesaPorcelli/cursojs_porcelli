@@ -1,0 +1,136 @@
+[
+    {
+        "id": "frutos-secos-01",
+        "titulo": "Almendras",
+        "descripcion":"Venta por kilo",
+        "imagen": "/img/frutos-secos/01.avif",
+        "categoria": {
+            "nombre": "Frutos Secos",
+            "id": "frutosSecos"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "frutos-secos-02",
+        "titulo": "Avellanas",
+        "descripcion":"Venta por kilo",
+        "imagen": "/img/frutos-secos/02.avif",
+        "categoria": {
+            "nombre": "Frutos Secos",
+            "id": "frutosSecos"
+        },
+        "precio": 4300
+    },
+    {
+        "id": "frutos-secos-03",
+        "titulo": "Maní",
+        "descripcion":"Venta por kilo",
+        "imagen": "/img/frutos-secos/03.avif",
+        "categoria": {
+            "nombre": "Frutos Secos",
+            "id": "frutosSecos"
+        },
+        "precio": 1400
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Nueces",
+        "descripcion":"Venta por kilo",
+        "imagen": "/img/frutos-secos/04.avif",
+        "categoria": {
+            "nombre": "Frutos Secos",
+            "id": "frutosSecos"
+        },
+        "precio": 5000
+    },
+
+    {
+        "id": "legumbres-01",
+        "titulo": "Lentejas",
+        "descripcion":"Venta por kilo",
+        "imagen": "/img/legumbres/01.avif",
+        "categoria": {
+            "nombre": "Legumbres",
+            "id": "legumbres"
+        },
+        "precio": 950
+    },
+    {
+        "id": "legumbres-02",
+        "titulo": "Maiz",
+        "descripcion":"Venta por kilo",
+        "imagen": "/img/legumbres/02.avif",
+        "categoria": {
+            "nombre": "Legumbres",
+            "id": "legumbres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "legumbres-03",
+        "titulo": "Porotos",
+        "descripcion":"Venta por kilo",
+        "imagen": "/img/legumbres/03.avif",
+        "categoria": {
+            "nombre": "Legumbres",
+            "id": "legumbres"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "legumbres-04",
+        "titulo": "Poroto Soja",
+        "descripcion":"Venta por kilo",
+        "imagen": "/img/legumbres/04.avif",
+        "categoria": {
+            "nombre": "Legumbres",
+            "id": "legumbres"
+        },
+        "precio": 800
+    },
+
+    {
+        "id": "Cereales-01",
+        "titulo": "Trigo Burgol",
+        "descripcion":"Venta por kilo",
+        "imagen": "../img/cereales/trigoburgol.jpeg",
+        "categoria": {
+            "nombre": "Cereales",
+            "id": "cereales"
+        },
+        "precio": 900
+    },
+    {
+        "id": "Cereales-01",
+        "titulo": "Avena",
+        "descripcion":"Venta por kilo",
+        "imagen": "../img/avena.jpg",
+        "categoria": {
+            "nombre": "Cereales",
+            "id": "cereales"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "Cereales-02",
+        "titulo": "Mijo",
+        "descripcion":"Venta por kilo",
+        "imagen": "../img/mijo.jpg",
+        "categoria": {
+            "nombre": "Cereales",
+            "id": "cereales"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "Cereales-03",
+        "titulo": "Quinoa",
+        "descripcion":"Venta por kilo",
+        "imagen": "../img/quinoa.jpg",
+        "categoria": {
+            "nombre": "Cereales",
+            "id": "cereales"
+        },
+        "precio": 1400
+    }
+]
