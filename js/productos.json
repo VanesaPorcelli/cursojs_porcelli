@@ -126,7 +126,7 @@
         "id": "Cereales-03",
         "titulo": "Quinoa",
         "descripcion":"Venta por kilo",
-        "imagen": "/img/cereales/quinoa.jpg",
+        "imagen": "./img/cereales/quinoa.jpg",
         "categoria": {
             "nombre": "Cereales",
             "id": "cereales"
