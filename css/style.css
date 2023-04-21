@@ -76,7 +76,7 @@ a {
 
 /* MAIN DE PAG*/
 .pages__fondo {
-  background-image: url(/img/hero2.avif);
+  background-image: url(./img/hero2.avif);
   background-attachment: fixed;
   height: 45vh;
   width: 100%; }
