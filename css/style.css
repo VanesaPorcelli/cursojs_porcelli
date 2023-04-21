@@ -76,13 +76,13 @@ a {
 
 /* MAIN DE PAG*/
 .pages__fondo {
-  background-image: url(/img/hero2.avif);
+  background-image: url(./img/hero2.avif);
   background-attachment: fixed;
   height: 45vh;
   width: 100%; }
 
 .fondo-fijo {
-  background-image: url(/img/bgfixed.avif);
+  background-image: url(./img/bgfixed.avif);
   background-attachment: fixed;
   height: 20vh;
   width: 100%; }
@@ -103,7 +103,7 @@ a {
 
 /* FOTTER*/
 .pie-pagina {
-  background-image: url(/img/fondo_prueba14.avif);
+  background-image: url(./img/fondo_prueba14.avif);
   background-attachment: scroll;
   width: 100%;
   padding-right: 0px; }
@@ -155,7 +155,7 @@ a {
 
 /* INDEX*/
 .hero {
-  background-image: url("/img/hero.avif");
+  background-image: url("./img/hero.avif");
   display: flex;
   align-items: center;
   background-attachment: fixed;
@@ -282,7 +282,7 @@ a {
   margin: auto;
   padding: 1em; }
   .container_form .company-info {
-    background-image: url("/img/nuez_tukura.avif"); }
+    background-image: url("./img/nuez_tukura.avif"); }
   .container_form .contact {
     background: #F9FEFF;
     padding-top: 10px;
