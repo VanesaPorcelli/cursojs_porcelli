@@ -103,7 +103,7 @@ a {
 
 /* FOTTER*/
 .pie-pagina {
-  background-image: url(/img/fondo_prueba14.avif);
+  background-image: url(../img/fondo_prueba14.avif);
   background-attachment: scroll;
   width: 100%;
   padding-right: 0px; }
