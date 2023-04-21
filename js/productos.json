@@ -3,7 +3,7 @@
         "id": "frutos-secos-01",
         "titulo": "Almendras",
         "descripcion":"Venta por kilo",
-        "imagen": "../img/frutos-secos/01.avif",
+        "imagen": "./img/frutos-secos/01.avif",
         "categoria": {
             "nombre": "Frutos Secos",
             "id": "frutosSecos"
