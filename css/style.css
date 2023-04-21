@@ -76,13 +76,13 @@ a {
 
 /* MAIN DE PAG*/
 .pages__fondo {
-  background-image: url(../img/hero2.avif);
+  background-image: url(/img/hero2.avif);
   background-attachment: fixed;
   height: 45vh;
   width: 100%; }
 
 .fondo-fijo {
-  background-image: url(../img/bgfixed.avif);
+  background-image: url(./img/bgfixed.avif);
   background-attachment: fixed;
   height: 20vh;
   width: 100%; }
